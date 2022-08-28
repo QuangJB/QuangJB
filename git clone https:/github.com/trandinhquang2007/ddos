@@ -1,0 +1,3 @@
+cd ddos
+pip3 install pysocks requests
+python3 c2.py
