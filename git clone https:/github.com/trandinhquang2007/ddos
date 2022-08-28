@@ -1,3 +1,2 @@
 cd ddos
-pip4 python
 python3 c2.py
